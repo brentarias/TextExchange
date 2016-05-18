@@ -109,7 +109,7 @@ namespace TextExchange.Interaction
                     var delimitedWord = "," + word + ",";
                     if (entry.Value.Contains(delimitedWord))
                     {
-                        foundTerms.Add(word);
+                        foundTerms.Add(entry.Key);
                     }
                 }
             }
