@@ -1,0 +1,7 @@
+me,self,i
+dragon,beast
+west
+east
+north
+south
+sword,saber

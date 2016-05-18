@@ -1,0 +1,3 @@
+look,notice
+take,grab,get
+attack,kill,destroy
